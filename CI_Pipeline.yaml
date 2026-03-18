@@ -1,4 +1,4 @@
-name: CI_Pipeline
+name: CI_Pipeline_Modificacion_de_prueba
 
 on: 
   push:
